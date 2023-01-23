@@ -3,7 +3,7 @@
 //  artBookProject
 //
 //  Created by Bircan Sezgin on 9.01.2023.
-//
+// Burası Tamamlanacak
 
 import UIKit
 
